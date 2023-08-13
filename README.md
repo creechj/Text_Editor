@@ -18,7 +18,7 @@ https://textedit-pwa-661050ebea6a.herokuapp.com/
 GitHub Repository:  
 https://github.com/creechj/Text_Editor  
 
-
+![Screenshot of Application](./assets/Text_Editor_Screenshot.png)
 
 ## Credits
 
@@ -28,7 +28,6 @@ https://www.npmjs.com/package/webpack
 npm webpack manifest:  
 https://www.npmjs.com/package/webpack-pwa-manifest  
 
-![Screenshot of Application](./assets/Text_Editor_Screenshot.png)
 
 ## License
 
